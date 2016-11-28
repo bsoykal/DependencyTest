@@ -9,6 +9,16 @@ import android.util.Log;
 public class DenemeHelper {
 
     public static void doThat(){
+        int burakInt = 0;
+        burakInt ++;
+
         Log.i("deneme helper","it works");
+    }
+
+    public void sayThat(){
+        String say = "burak 123";
+        int aliInt = 6;
+        int baliInt = aliInt;
+
     }
 }
